@@ -1,5 +1,25 @@
-A reference to a related issue in your repository.
+## Context
 
-A description of the changes proposed in the pull request.
+<!--
+Share more context. Should be around few sentences.
+-->
 
-@mentions of the person or team responsible for reviewing proposed changes.
+This PR adds ...
+
+Related issue — ...
+
+## Demo
+
+This is how it looks like in action:
+
+`GIF / Screenshot`
+
+## Checklist
+
+<!--
+Describe everything that you did / plan to do while working on this PR.
+-->
+- [x] ...
+- [ ] ...
+- [ ] test everything manually
+- [ ] write a good PR description
