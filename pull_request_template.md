@@ -19,7 +19,7 @@ This is how it looks like in action:
 <!--
 Describe everything that you did / plan to do while working on this PR.
 -->
-- [x] ...
+- [x] I've read [CONTRIBUTING.md](https://github.com/rsedykh/.github/blob/master/CONTRIBUTING.md)
 - [ ] ...
-- [ ] test everything manually
-- [ ] write a good PR description
+- [ ] Test everything manually
+- [ ] Write a good PR description
